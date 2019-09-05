@@ -1,13 +1,14 @@
 {
   "name": "typescript-extract-exports",
   "version": "1.0.0",
-  "description": "",
+  "description": "Extract TypeScript types export from given file.",
+  "repository": "jkwlui/typescript-extract-exports",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "commander": "^2.19.0",
     "typescript-parser": "^2.6.1"
